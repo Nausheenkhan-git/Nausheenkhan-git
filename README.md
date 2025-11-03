@@ -1,6 +1,6 @@
 # 👩‍💻 Nausheen Khan
 
-🎓 **3rd-year Information Systems Student**  
+🎓 **4th-year Information Systems Student**  
 📍 Doha, Qatar | 💼 Aspiring Backend Developer | ☁️ DevOps Enthusiast  
 📬 [Email](nausheen2305@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nausheen-khan-26808633b)
 
@@ -29,7 +29,7 @@ Motivated 3rd-year Information Systems student with expertise in backend develop
 
 - **Languages:** Python, Java, JavaScript, Node.js, SQL  
 - **Backend:** Express.js, Flask, REST APIs, CSRF Protection  
-- **Web:** HTML, CSS, Bootstrap, Core UI  
+- **Web:** HTML, CSS, Bootstrap, Core UI , React.js , ReactNative 
 - **Databases:** MongoDB, PostgreSQL, MySQL  
 - **DevOps:** GitHub Actions, Azure, CI/CD, Gitflow  
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Power BI  
@@ -68,6 +68,8 @@ Motivated 3rd-year Information Systems student with expertise in backend develop
 - ✅ Cisco – *Introduction to Data Science*  
 - ✅ Palo Alto – *Networking Security Fundamentals*  
 - ✅ Palo Alto – *Cybersecurity Foundation*
+- ✅ Cisco – *Data Analytics Essentials*
+- ✅ Cisco – *Introduction to Modern AI*    
 
 ---
 
