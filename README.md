@@ -148,6 +148,8 @@ Machine learning and data analysis project utilizing Python, Pandas, and Scikit-
 
 UX research and interface redesign project applying Human-Computer Interaction principles and usability evaluation methods.
 
+### 👩‍💻 Job Tracking Application 
+
 ---
 
 ## 🏆 Awards & Achievements
