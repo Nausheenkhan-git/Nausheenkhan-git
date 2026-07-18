@@ -1,189 +1,24 @@
-# 👩‍💻 Nausheen Khan
+# 💫 About Me:
+Information Systems graduate with practical experience in web development, software testing, cybersecurity fundamentals, and data analytics. Experienced in building responsive web applications using React.js, JavaScript, Node.js, SQL, and REST APIs. Passionate about creating intuitive user experiences, developing secure software solutions, and leveraging modern technologies to solve real-world problems.<br><br>Through internships, hackathons, and academic projects, I have worked on full-stack web applications, cloud-based CI/CD workflows, UI/UX design, software quality assurance, and data-driven solutions. I enjoy learning new technologies and transforming ideas into impactful digital products.
 
-🎓 **Information Systems Graduate**
-📍 Doha, Qatar | 💻 Web Developer | 🎨 UI/UX Enthusiast | 🔒 Cybersecurity Learner
 
-#### 📬 Email: [nausheen2305@gmail.com] | 🔗 LinkedIn: [https://www.linkedin.com/in/nausheen-khan-26808633b/]
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nksgalleryy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Nausheen Khan](https://www.linkedin.com/in/nausheen-khan-26808633b/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nausheen2305@gmail.com) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nausheenkhan-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Nausheenkhan-git&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nausheenkhan-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!--
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nausheenkhan-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nausheenkhan-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
 ---
-
-## 🚀 About Me
-
-Information Systems graduate with practical experience in web development, software testing, cybersecurity fundamentals, and data analytics. Experienced in building responsive web applications using React.js, JavaScript, Node.js, SQL, and REST APIs. Passionate about creating intuitive user experiences, developing secure software solutions, and leveraging modern technologies to solve real-world problems.
-
-Through internships, hackathons, and academic projects, I have worked on full-stack web applications, cloud-based CI/CD workflows, UI/UX design, software quality assurance, and data-driven solutions. I enjoy learning new technologies and transforming ideas into impactful digital products.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-* Python
-* Java
-* JavaScript
-* SQL
-
-### Frontend Development
-
-* React.js
-* React Native
-* HTML5
-* CSS3
-* Bootstrap
-* Tailwind CSS
-* CoreUI
-
-### Backend Development
-
-* Node.js
-* Express.js
-* Flask
-* RESTful APIs
-
-### Databases
-
-* MongoDB
-* PostgreSQL
-* MySQL
-
-### DevOps & Cloud
-
-* Git
-* GitHub
-* GitHub Actions
-* CI/CD
-* Azure
-* Gitflow
-
-### Data Analytics
-
-* Power BI
-* Pandas
-* NumPy
-* Matplotlib
-
-### Cybersecurity
-
-* SQL Injection
-* Cross-Site Scripting (XSS)
-* Cross-Site Request Forgery (CSRF)
-* Server-Side Request Forgery (SSRF)
-* Access Control Bypass
-* Session Management
-* Secure Coding Practices
-
-### Operating Systems
-
-* Linux
-* Windows
-* macOS
-
----
-
-## 💼 Experience
-
-### Web Development Intern | Genesis Technologies Qatar
-
-**June 2025 – August 2025**
-
-* Developed a restaurant ordering web application using React.js.
-* Implemented bill splitting, multilingual support, and payment workflows.
-* Enhanced user experience with responsive UI design.
-* Utilized React Hooks and Context API for scalable application architecture.
-* Collaborated using GitHub version control and agile development practices.
-
-### Web Development Intern | House Edge Qatar
-
-**December 2025 – January 2026**
-
-* Designed and developed the company's website using HTML, CSS, and JavaScript.
-* Built key business pages including Services, Careers, and Contact.
-* Implemented customer inquiry and quotation request workflows.
-* Proposed automation concepts to improve service quotation processes.
-* Delivered a responsive and user-friendly web experience.
-
-### Front-End Developer | Bin Omran Trading & Telecommunication
-
-**April 2026 – Current**
-
-* Conducting a comprehensive website audit and competitor analysis to identify UX/UI gaps and improvement opportunities.
-* Redesigning company website with modern UI/UX principles using Figma for high-fidelity mockups.
-* Developing a fully responsive frontend website using HTML, CSS, and JavaScript.
-* Collaborating with stakeholders to align design with corporate brand identity.
-* Implementing SEO best practices and CMS integration for dynamic content management
-* Delivered a responsive and user-friendly web experience.
----
-
-## 💻 Featured Projects
-
-### 🗺️ Indoor Navigation System (Capstone Project)
-
-Developing a campus indoor navigation platform that helps users locate rooms, facilities, and services within university buildings through an interactive map experience.
-
-### 📚 Course Management System
-
-Queue-based student request management platform with email verification, administrative dashboards, and secure authentication mechanisms.
-
-### 🤖 Study-Plus AI
-
-AI-powered study planner featuring focus sessions, productivity tools, usability testing, and user-centered design principles.
-
-### 🍲 Recipe Planner & Meal Finder API
-
-RESTful API built using PostgreSQL with CRUD functionality, database modeling, and API testing.
-
-### 📈 Retail Sales Forecasting
-
-Applied SARIMA forecasting, ANOVA analysis, and Power BI dashboards to generate business insights from retail sales data.
-
-### 📝 Map My Memory
-
-Secure personal journaling platform designed for private storage and management of memories and experiences.
-
-### 🔬 Breast Cancer Data Analysis
-
-Machine learning and data analysis project utilizing Python, Pandas, and Scikit-learn to explore healthcare datasets.
-
-### 🎨 Website Redesign
-
-UX research and interface redesign project applying Human-Computer Interaction principles and usability evaluation methods.
-
-### 👩‍💻 Job Tracking Application 
-
----
-
-## 🏆 Awards & Achievements
-
-🥈 **2nd Place – QIC AI Hackathon 2025**
-
-* Developed *QIC Rewards Quest*, an AI-powered gamified insurance engagement platform.
-
-🥇 **1st Place – QChem Future Lab Hackathon 2025**
-
-* Designed and presented an AI-powered laboratory safety chatbot solution.
-
----
-
-## 📜 Certifications
-
-* Networking Security Fundamentals – Palo Alto Networks
-* Cybersecurity Foundation – Palo Alto Networks
-* Introduction to Data Science – Cisco
-* Introduction to Modern AI – Cisco
-* Data Analytics Essentials – Cisco
-
----
-
-## 🌱 Current Interests
-
-* Web Development
-* UI/UX Design
-* Cybersecurity
-* Artificial Intelligence
-* Cloud Computing
-* Data Analytics
-* Software Engineering
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ⭐ Always open to collaborating on innovative projects, learning new technologies, and building solutions that create real-world impact.
