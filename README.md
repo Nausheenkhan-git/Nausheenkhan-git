@@ -2,6 +2,7 @@
 Information Systems graduate with practical experience in web development, software testing, cybersecurity fundamentals, and data analytics. Experienced in building responsive web applications using React.js, JavaScript, Node.js, SQL, and REST APIs. Passionate about creating intuitive user experiences, developing secure software solutions, and leveraging modern technologies to solve real-world problems.<br><br>Through internships, hackathons, and academic projects, I have worked on full-stack web applications, cloud-based CI/CD workflows, UI/UX design, software quality assurance, and data-driven solutions. I enjoy learning new technologies and transforming ideas into impactful digital products.
 
 🤝 Open to collaborating on AI, cybersecurity, developer tools, and open-source projects.
+
 🌱 Learning AI engineering, LLM applications, secure software architecture and production-ready systems.
 
 
